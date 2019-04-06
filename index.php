@@ -15,7 +15,7 @@
 </head>
 <body>
 	<div id="container">
-		<h1>My Favorite Movies</h1>
+		<h1>Favorite Movies</h1>
 		<ul>
 			<?php
 				foreach ($json['movies'] as $key => $value) {
